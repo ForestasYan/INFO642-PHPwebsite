@@ -1,4 +1,2 @@
-Pour utiliser ce programme:
--extraire les fichiers dans www de wampserveur
--mettre le fichier sql dans la base de donnée
--taper localhost sur son navigateur.
+Introduction to web development using wampserver, SQL and PHP
+Introduction au developpement web avec wampserver, SQL et PHP
