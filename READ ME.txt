@@ -1,0 +1,4 @@
+Pour utiliser ce programme:
+-extraire les fichiers dans www de wampserveur
+-mettre le fichier sql dans la base de donnée
+-taper localhost sur son navigateur.
